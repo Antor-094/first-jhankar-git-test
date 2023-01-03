@@ -1,3 +1,8 @@
 .center{
     text-align: center;
+    background-image: url('../images/antor.jpg');
+    background-size: contain;
+}
+.center h2{
+    color: aquamarine;
 }
